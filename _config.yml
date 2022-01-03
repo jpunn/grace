@@ -3,10 +3,10 @@ url: ''
 baseurl: null
 title: Amazing grace
 description: Spread  the fragrance of Christ  love
-site-image: /assets/images/meta.png
+site-image: 'https://jpunn.github.io/grace/assets/images/meta.png'
 site-keywords: 'Site, Template, Theme'
 favicon-url: 'null'
-heroimage: /assets/images/meta.png
+heroimage: 'https://jpunn.github.io/grace/assets/images/meta.png'
 email: amazinggrace@gmail.com
 facebook_username: Amazing grace
 twitter_username: Amazing grace
@@ -21,8 +21,7 @@ spotify_username: /
 google-analytics: null
 disqus-shortname: Amazing grace
 author-name: Amazing grace
-author-image: >-
-  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/logo.png
 author-about: >-
   A good gardener anticipates the blooming time of each plant and plant them
   wisely to get the desired effect ,which enhance, contrast or blend with the
